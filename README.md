@@ -40,7 +40,7 @@ sudo apt install grafana
 #### Prometheus
 ---
 Navigate Prometheus Directory.
-```cd prometheus*/
+``` cd prometheus*/
 ```
 ```
 sudo mv prometheus /usr/local/bin
