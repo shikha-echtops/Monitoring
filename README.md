@@ -1,7 +1,9 @@
 # Monitoring
 ### How to install Prometheus , Node Exporter , Alertmanager and Grafana.
 
-`sudo apt update`
+```
+sudo apt update
+```
 
 ### Installation
 ---
@@ -40,7 +42,8 @@ sudo apt install grafana
 #### Prometheus
 ---
 Navigate Prometheus Directory.
-``` cd prometheus*/
+```
+cd prometheus*/
 ```
 ```
 sudo mv prometheus /usr/local/bin
