@@ -20,7 +20,9 @@ Download Prometheus from official site
 [Download Prometheus](https://prometheus.io/download/#prometheus)
 
 After Download , extract the content 
-``` tar vxf prometheus*.tar.gz```
+```
+tar vxf prometheus*.tar.gz
+```
 
 ### Create Repository for Grafana.
 ```
