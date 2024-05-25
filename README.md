@@ -17,9 +17,8 @@ sudo mkdir /etc/prometheus
 sudo mkdir /var/lib/prometheus
 ```
 Download Prometheus from official site 
-```
-https://prometheus.io/download/#prometheus
-```
+[Download Prometheus](https://prometheus.io/download/#prometheus)
+
 After Download , extract the content 
 ``` tar vxf prometheus*.tar.gz```
 
